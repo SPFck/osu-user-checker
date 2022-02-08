@@ -1,3 +1,3 @@
-# osu-user-checker
+# osu!user-checker
 
-A website to check osu! usernames, made by @SPFck.
+A website that checks osu! usernames, made by @SPFck.
