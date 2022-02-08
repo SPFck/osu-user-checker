@@ -23,7 +23,7 @@ if(strpos($res, "form_error")) {
 	$res = json_decode($res, true);
 	echo "[$username_l] => ".$res["form_error"]["user"]["username"][0];
 } else {
-	echo "Username avaliable!";
+	echo "[$username_l] => Username avaliable!";
 }
 
 ?>
